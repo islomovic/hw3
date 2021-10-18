@@ -1,0 +1,15 @@
+body{ 
+    background-color: bisque;
+} 
+.block1{ 
+    height: 600px;
+    width: 100%;
+    background-color: darkgrey ;
+    font-size: 19px;
+} 
+.block2{ 
+    font-size: 19px; 
+    height: 1300px; 
+    width: 100%; 
+    background-color: lightcyan;
+}
